@@ -1,1 +1,2 @@
-# STONETHROW2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
